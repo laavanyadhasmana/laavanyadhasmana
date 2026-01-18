@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 About Me
+# About Me
 
 ### Hi, I'm Laavanya Dhasmana! 👋
 
